@@ -1,4 +1,4 @@
-
+![Banner](Banner%20Linkedin.png)
 
 # Ciao, sono Giuseppe Canzoneri ! 👋
 
