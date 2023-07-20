@@ -2,7 +2,7 @@
 
 # Ciao, sono Giuseppe Canzoneri ! 👋
 
-Sono uno sviluppatore web appassionato di creare applicazioni straordinarie e di alta qualità.
+Sono uno sviluppatore web , appassionato nella creazione di siti web responsive .
 
 ## 🚀 Le mie competenze:
 
