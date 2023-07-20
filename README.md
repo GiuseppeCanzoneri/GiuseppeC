@@ -1,3 +1,5 @@
+![Banner](Banner Linkedin.png)
+
 # Ciao, sono Giuseppe Canzoneri ! 👋
 
 Sono uno sviluppatore web appassionato di creare applicazioni straordinarie e di alta qualità.
