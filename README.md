@@ -21,5 +21,6 @@ Sono uno sviluppatore web , appassionato nella creazione di siti web responsive 
 
 - 💼 LinkedIn: [Profilo LinkedIn](www.linkedin.com/in/giuseppe-canzoneri-94828b270)
 - 🐦 Email: gcanzoneri3@gmail.com
+- 📒 Portfolio: https://my-repository-m4djo0ong-giuseppecanzoneri.vercel.app
 
 🌟 Sono sempre aperto a nuove opportunità e collaborazioni interessanti nel campo dello sviluppo web. Non vedo l'ora di connettermi con altre persone appassionate di tecnologia!
